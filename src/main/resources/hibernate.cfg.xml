@@ -4,7 +4,7 @@
 <hibernate-configuration>
     <session-factory>
         <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
-        <property name="connection.url">jdbc:mysql://localhost:3306/hibernate61</property>
+        <property name="connection.url">jdbc:mysql://localhost:3306/proiect</property>
         <property name="connection.username">root</property>
         <property name="connection.password">Friends18</property>
         <property name="dialect">org.hibernate.dialect.MySQL8Dialect</property>
